@@ -1,7 +1,10 @@
 [ID:mammals_of_gluttony_&_greed-greed]
 [STEAM_TITLE:MOGG - Greed]
 [STEAM_TAG:mod]
-[STEAM_KEY_VALUE_TAG:new:mod]
+[STEAM_TAG:creature]
+[STEAM_TAG:balance]
+[STEAM_TAG:tweak]
+[STEAM_KEY_VALUE_TAG:creature:fur:leather:leatherworker:rabbit:mink]
 
 [NUMERIC_VERSION:0100]
 [DISPLAYED_VERSION:1.00]
@@ -9,5 +12,5 @@
 [EARLIEST_COMPATIBLE_DISPLAYED_VERSION:1.00]
 [AUTHOR:Llamageddon]
 [NAME:MOGG - Greed]
-[DESCRIPTION:This is the description for a new mod.]
+[DESCRIPTION:This adds fur to some animals, and the ability to make fur clothing and other items at the leather works.]
 [STEAM_CHANGELOG:]
