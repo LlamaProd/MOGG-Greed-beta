@@ -1,5 +1,5 @@
-[ID:mammals_of_gluttony_&_greed-greed-test]
-[STEAM_TITLE:MOGG - Greed - Test]
+[ID:mammals_of_gluttony_&_greed-greed-beta-test]
+[STEAM_TITLE:MOGG - Greed - beta - Test]
 [STEAM_TAG:mod]
 [STEAM_KEY_VALUE_TAG:new:mod]
 
@@ -8,6 +8,6 @@
 [EARLIEST_COMPATIBLE_NUMERIC_VERSION:0010]
 [EARLIEST_COMPATIBLE_DISPLAYED_VERSION:0.10]
 [AUTHOR:Llamageddon]
-[NAME:MOGG - Greed - Test]
+[NAME:MOGG - Greed - beta - Test]
 [DESCRIPTION:This mod is the foundation for a series of new, or enhanced, creature byproduct industries.]
-[STEAM_CHANGELOG:]
+[STEAM_CHANGELOG:Major - This is not compatible with older versions. This adds new custom materials and item drops realted to fur, and a variably scaling system of fur drops from rabbits, mink and giant mink. It also introduces a new sub-menu on the leather working screen, with custom reaction for each piece of fur armor, as well as an example of using fur "tufts" to decorate items (only leather armor at this point).]
