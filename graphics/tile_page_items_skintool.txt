@@ -5,4 +5,4 @@ tile_page_items_skintool
 [TILE_PAGE:SKINTOOLS]
 	[FILE:images/item_tool_skintool.png]
 	[TILE_DIM:32:32]
-	[PAGE_DIM:3:4]
+	[PAGE_DIM:3:6]
