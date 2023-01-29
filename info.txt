@@ -1,4 +1,4 @@
-[ID:mammals_of_gluttony_&_greed-greed-beta-test]
+[ID:mogg03-greed-beta-test]
 [STEAM_TITLE:MOGG - Greed - beta - Test]
 [STEAM_TAG:mod]
 [STEAM_KEY_VALUE_TAG:new:mod]
