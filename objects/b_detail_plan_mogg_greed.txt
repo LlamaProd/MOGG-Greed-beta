@@ -2,7 +2,7 @@ b_detail_plan_mogg_greed
 
 [OBJECT:BODY_DETAIL_PLAN]
 
-[BODY_DETAIL_PLAN:STANDARD_FUR_M] (Leaving these in for now, but will delete on release)
+[BODY_DETAIL_PLAN:STANDARD_FUR_M] (Keeps material names. Unused)
 	[ADD_MATERIAL:SKIN:PELT_TEMPLATE] new
 	[ADD_MATERIAL:FAT:FAT_TEMPLATE]
 	[ADD_MATERIAL:MUSCLE:MUSCLE_TEMPLATE]
@@ -27,7 +27,7 @@ b_detail_plan_mogg_greed
 	[ADD_MATERIAL:TALLOW:TALLOW_TEMPLATE]
 	[ADD_MATERIAL:SOAP:SOAP_TEMPLATE]
 
-[BODY_DETAIL_PLAN:STANDARD_FUR_T] (Leaving these in for now, but will delete on release)
+[BODY_DETAIL_PLAN:STANDARD_FUR_T] (Keeps material names. Unused)
 	[ADD_TISSUE:SKIN:TPELT_TEMPLATE] new
 	[ADD_TISSUE:FAT:FAT_TEMPLATE]
 	[ADD_TISSUE:MUSCLE:MUSCLE_TEMPLATE]
